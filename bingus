@@ -3,13 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Detective Website</title>
+    <title>Creepypasta Website</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
 
 <header>
-    <h1>Welcome to Detective Website</h1>
+    <h1>WELCOME TO THE PIT</h1>
     <nav>
         <ul>
             <li><a href="index.html">Home</a></li>
@@ -21,14 +21,14 @@
 
 <main>
     <section>
-        <h2>About Detective Shows</h2>
-        <p>Placeholder text about detective shows goes here.</p>
+        <h2>Creepy Stuff placeholder </h2>
+        <p>Placeholder text about creepy stuff goes here.</p>
     </section>
 
     <section>
-        <h2>Featured Detective</h2>
-        <img src="detective.jpg" alt="Detective Image">
-        <p>Name of featured detective and brief description.</p>
+        <h2>Scary Image Here</h2>
+        <img src="https://i.pinimg.com/originals/25/80/66/25806671c99c371301607c45b56d34b4.png" alt="https://i.pinimg.com/originals/25/80/66/25806671c99c371301607c45b56d34b4.png">
+        <p>Name of featured creature and brief description.</p>
     </section>
 
     <section>
