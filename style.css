@@ -52,3 +52,9 @@ audio {
     width: 100%;
     margin-top: 10px;
 }
+
+body {
+    background-image: url('https://i.pinimg.com/564x/6d/70/f5/6d70f5c2a87cbbd3d466f478a4fe66b3.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
