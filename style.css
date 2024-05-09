@@ -3,16 +3,16 @@ body {
     margin: 0;
     padding: 0;
     display: flex;
-    justify-content: center; /* horizontally center content */
-    align-items: center; /* vertically center content */
-    min-height: 100vh; /* ensures content stretches to fill viewport height */
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
 }
 
 header, footer {
     background-color: #333;
     color: #fff;
     padding: 10px 20px;
-    width: 100%; /* make headers and footers full width */
+    width: 100%;
 }
 
 nav ul {
@@ -27,7 +27,7 @@ nav ul li {
 
 main {
     padding: 20px;
-    width: 80%; /* adjust width as needed */
+    width: 80%;
 }
 
 section {
@@ -40,7 +40,7 @@ h1, h2 {
 
 table {
     border-collapse: collapse;
-    width: 100%; /* make tables full width */
+    width: 100%;
 }
 
 table, th, td {
