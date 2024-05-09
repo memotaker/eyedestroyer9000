@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Detective Website</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header>
+    <h1>Welcome to Detective Website</h1>
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About</a></li>
+            <!-- Add more links as needed -->
+        </ul>
+    </nav>
+</header>
+
+<main>
+    <section>
+        <h2>About Detective Shows</h2>
+        <p>Placeholder text about detective shows goes here.</p>
+    </section>
+
+    <section>
+        <h2>Featured Detective</h2>
+        <img src="detective.jpg" alt="Detective Image">
+        <p>Name of featured detective and brief description.</p>
+    </section>
+
+    <section>
+        <h2>Latest Cases</h2>
+        <ul>
+            <li><a href="#">Case 1</a></li>
+            <li><a href="#">Case 2</a></li>
+            <!-- Add more cases as needed -->
+        </ul>
+    </section>
+</main>
+
+<footer>
+    <p>&copy; 2024 Detective Website</p>
+</footer>
+
+</body>
+</html>
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 30px;
+}
+
+h1, h2 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
