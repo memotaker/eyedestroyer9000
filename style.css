@@ -1,14 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-   <title>How to add an image as background image of a web page?</title>
    <style>
       body {
          background-image: url("https://i.pinimg.com/564x/04/d8/d8/04d8d8cee31e7cc766d0dd0108121452.jpg");
       }
    </style>
-</head>
-<body>
-   <h4 style="background-color: white;">How to add an image as background image of a web page?</h4>
-</body>
 </html>
