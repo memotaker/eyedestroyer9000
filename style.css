@@ -1,17 +1,7 @@
-]<!DOCTYPE html>
-<html lang="en">
-<head>
-    <link rel="stylesheet" href="style.css">
-    <title>Background Image</title>
-</head>
-
-<body>
-    <h1>Background image</h1>
+<!DOCTYPE html>
+<html>
+<body background="gravityfalls.png">
+<h1>Welcome to Gravity Falls</h1>
+<p><a href="<a href="https://i.pinimg.com/736x/04/d8/d8/04d8d8cee31e7cc766d0dd0108121452.jpg">https://i.pinimg.com/736x/04/d8/d8/04d8d8cee31e7cc766d0dd0108121452.jpg">gravityfalls.png</a></p>
 </body>
 </html>
-h1{
-    text-align: center;
-}
-body{
-    background-image: url('https://i.pinimg.com/originals/bb/d5/1a/bbd51a6da574881d77c4abb7c1d3c8d4.jpg');
-}
