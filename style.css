@@ -1,60 +1,17 @@
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    min-height: 100vh;
-}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="style.css">
+    <title>Background Image</title>
+</head>
 
-header, footer {
-    background-color: #333;
-    color: #fff;
-    padding: 10px 20px;
-    width: 100%;
+<body>
+    <h1>Background image</h1>
+</body>
+</html>
+h1{
+    text-align: center;
 }
-
-nav ul {
-    list-style-type: none;
-    padding: 0;
-}
-
-nav ul li {
-    display: inline;
-    margin-right: 20px;
-}
-
-main {
-    padding: 20px;
-    width: 80%;
-}
-
-section {
-    margin-bottom: 20px;
-}
-
-h1, h2 {
-    font-family: 'Arial Black', sans-serif;
-}
-
-table {
-    border-collapse: collapse;
-    width: 100%;
-}
-
-table, th, td {
-    border: 1px solid #333;
-    padding: 8px;
-}
-
-audio {
-    width: 100%;
-    margin-top: 10px;
-}
-
-body {
-    background-image: url('https://i.pinimg.com/564x/6d/70/f5/6d70f5c2a87cbbd3d466f478a4fe66b3.jpg');
-    background-size: cover;
-    background-repeat: no-repeat;
+body{
+    background-image: url('https://cdn.discordapp.com/attachments/1204236198479011850/1238508430969540708/gravity-falls-background-6kd45sv6gsuckn0g.png?ex=663f8a5c&is=663e38dc&hm=5eeb3804e2db9e4901204da089554570f4cea49df9b5b7930c0a74a025e83cc3&');
 }
